@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pranathik2001@gmail.com**
 
-- ⚡ Fun fact **I am an artist, classical singer and orator**
+- ⚡ Fun fact **I am an artist and orator who enjoys learning about different cultures!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,4 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranathi-star&show_icons=true&locale=en" alt="pranathi-star" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranathi-star&" alt="pranathi-star" /></p>
