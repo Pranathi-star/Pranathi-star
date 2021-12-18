@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pranathik2001@gmail.com**
 
-- ⚡ Fun fact **I am an artist, classical singer and orator**
+- ⚡ Fun fact **I am an artist, singer and orator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
